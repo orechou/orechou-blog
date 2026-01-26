@@ -31,7 +31,7 @@ jobs:
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           EXTERNAL_REPOSITORY: OreChou/orechou.github.io
           PUBLISH_BRANCH: master
           PUBLISH_DIR: ./public
