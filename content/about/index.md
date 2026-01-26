@@ -37,7 +37,3 @@ It’s not who I am underneath, but what I do that defines me.
 1. [Spatially fine-grained air quality prediction based on DBU-LSTM](https://www.researchgate.net/publication/332957036_Spatially_fine-grained_air_quality_prediction_based_on_DBU-LSTM)
 2. [A Novel Approach for Air Quality Inference and Prediction Based on DBU-LSTM](https://www.researchgate.net/publication/334665400_A_Novel_Approach_for_Air_Quality_Inference_and_Prediction_Based_on_DBU-LSTM)
 3. [Deep Spatial-Temporal Fusion Network for Fine-Grained Air Quality Prediction](https://www.researchgate.net/publication/340550726_Deep_Spatial-Temporal_Fusion_Network_for_Fine-Grained_Air_Quality_Prediction)
-
-
-## Blog Content
-「所有文章」加起来约 {{< wordCount "posts" >}}

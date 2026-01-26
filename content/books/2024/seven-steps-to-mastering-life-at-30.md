@@ -1,6 +1,11 @@
 ---
-title: 【读书】《30岁人生开挂7步法》
-date: 2024-04-29 00:00:00
+title: "30岁人生开挂7步法"
+author: "自青"
+cover: "https://neodb.social/m/item/doubanbook/2024/10/12/e443ec86-a675-4428-acd1-fc0776ec7496.jpg"
+rating: 3
+dateFinished: 2024-04-29
+readingTime: "Unknown"
+tags: ["stock"]
 ---
 
 > 95% 的人会顺应命运，平凡地生活，我把这类人称为“顺理者”。

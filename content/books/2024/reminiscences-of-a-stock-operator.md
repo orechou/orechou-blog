@@ -1,6 +1,11 @@
 ---
-title: 【读书】《股票大作手回忆录》
-date: 2024-04-23 00:00:00
+title: "股票大作手回忆录"
+author: "(美）埃德温·勒菲弗"
+cover: "https://neodb.social/m/item/goodreads/2025/09/30/7cf2bc69-6c36-4483-a3a5-40b03ca2b008.jpg"
+rating: 3
+dateFinished: 2024-04-23
+readingTime: "Unknown"
+tags: ["stock"]
 ---
 
 ## 原文一些段落的摘录

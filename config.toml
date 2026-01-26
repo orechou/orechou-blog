@@ -1,0 +1,99 @@
+baseURL = "https://www.orechou.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "OreChou"
+theme = "hugo-theme-cactus-plus"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+# Main menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Books"
+url = "/books"
+weight = 3
+
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags"
+# weight = 4
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+# Markdown configuration
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    lineNos = true
+    style = "dracula"
+
+# Pagination
+paginate = 5
+
+# Parameters
+[params]
+  colortheme = "white"  # Options: dark, white
+  rss = true
+  mainSection = "posts"
+
+  # Homepage settings
+  description = "所有的文字，均致十年后的自己."
+  postsOnHomePage = 5
+  footer = "&copy; [OreChou](https://orechou.com) 2017-{Year} | [Github](https://github.com/orechou)"
+  highlightjsLang = ["latex"]
+  highlightjsTheme = "github"
+  highlightjsVersion = "11.7.0"
+
+  # Post settings
+  showReadTime = true
+  dateFormat = "2006-01-02"
+
+  # Comments system (optional)
+  [params.comments]
+    enabled = false  # Disabled by default
+
+  # Books configuration
+  [params.books]
+    booksPerPage = 20  # Number of books per page
+    showRating = true
+    showReadingTime = true
+
+  # Social links (optional)
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/OreChou"
+
+  [[params.social]]
+    name = "twitter"
+    link = "https://x.com/OreoChou"
+
+  [[params.social]]
+    name = "email"
+    link = "orechou1018@gmail.com"
+
+  [[params.social]]
+    name = "rss"
+    link = "/index.xml"
+
+
