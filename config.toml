@@ -1,7 +1,7 @@
 baseURL = "https://www.orechou.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "OreChou"
+title = "奥力手记"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = ""
 disqusShortname = ""
@@ -82,7 +82,7 @@ paginate = 5
   # Social links (optional)
   [[params.social]]
     name = "github"
-    link = "https://github.com/OreChou"
+    link = "https://github.com/orechou"
 
   [[params.social]]
     name = "twitter"
@@ -90,10 +90,8 @@ paginate = 5
 
   [[params.social]]
     name = "email"
-    link = "orechou1018@gmail.com"
+    link = "orechou.studio@gmail.com"
 
   [[params.social]]
     name = "rss"
     link = "/index.xml"
-
-

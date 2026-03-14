@@ -1,14 +1,20 @@
 {
   "list": [
     {
+      "name": "Nextor",
+      "url": "https://github.com/orechou/nextor",
+      "icon": "🖨️",
+      "desc": "一款基于 Tauri v2 构建的现代化、功能丰富的 Markdown 编辑器。"
+    },
+    {
       "name": "Hugo Theme Cactus Plus",
-      "url": "https://github.com/OreChou/hugo-theme-cactus-plus",
+      "url": "https://github.com/orechou/hugo-theme-cactus-plus",
       "icon": "🎨",
       "desc": "一个现代化、简洁的 Hugo 博客主题，支持深色/浅色主题切换。"
     },
     {
       "name": "OreChou‘s Blog",
-      "url": "https://github.com/OreChou/orechou-blog",
+      "url": "https://github.com/orechou/orechou-blog",
       "icon": "📠",
       "desc": "该博客项目。"
     }
